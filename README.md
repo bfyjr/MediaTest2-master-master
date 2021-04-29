@@ -9,3 +9,6 @@
 ------
 <img src="https://github.com/bfyjr/MediaTest2-master-master/blob/master/screen/%E6%92%AD%E6%94%BE%E7%95%8C%E9%9D%A2.jpg"  width="270" height="560" alt="播放器"/><br/>
 
+点进视频时候爆炸效果
+------
+
