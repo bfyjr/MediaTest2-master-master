@@ -12,5 +12,5 @@
 点进视频时候爆炸效果
 ------
 
-<img src="https://github.com/bfyjr/MediaTest2-master-master/blob/master/screen/%E7%88%86%E7%82%B8.png"  width="400" height="400" alt="播放器"/><br/>
+<img src=https://github.com/bfyjr/MediaTest2-master-master/blob/master/screen/%E7%88%86%E7%82%B8.jpg"  width="400" height="400" alt="播放器"/><br/>
 
